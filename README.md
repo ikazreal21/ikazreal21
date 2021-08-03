@@ -1,5 +1,12 @@
-### Hi there 👋
+<h1 align="center">  <em><strong>😪😪😪</strong></em></h1>
 
+
+
+
+<p align="center"><img src="https://media.giphy.com/media/FnGJfc18tDDHy/giphy.gif" width="700px" height="300px"></p> 
+  
+  
+  
 <!--
 **ikazreal21/ikazreal21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
