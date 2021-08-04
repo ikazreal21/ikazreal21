@@ -1,10 +1,9 @@
-<h1 align="center">  <em><strong>😪😪😪</strong></em></h1>
+<h3 align="center"><strong>“Anyone who has never made a mistake has never tried anything new.”</strong></h3>
+<h5 align="center">― Albert Einstein</h5>
 
 
+<p align="center"><img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" width="600px" height="300px"></p> 
 
-
-<p align="center"><img src="https://media.giphy.com/media/FnGJfc18tDDHy/giphy.gif" width="700px" height="300px"></p> 
-  
   
   
 <!--
