@@ -3,9 +3,8 @@
 <h5 align="center">
  ‏‏‎ </h5>
 
-<p align="center"><img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" width="600px" height="300px"></p> 
+<p align="center"><img src="https://media.giphy.com/media/gGuOldphm6vzW/giphy.gif" width="500px" height="300px"></p> 
 
-  
   
 <!--
 **ikazreal21/ikazreal21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
