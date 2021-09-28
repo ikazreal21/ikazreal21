@@ -9,8 +9,8 @@
 <h3 align="center">Hi 👋, I'm Joaquin Zaki</h3>
 <h4 align="center">A Freelance Web Developer and a Former Bug bounty Hunter</h4>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ikazreal21&label=Profile%20views&color=0e75b6&style=flat" alt="ikazreal21" /> </p>
-
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=ikazreal21&label=Profile%20views&color=0e75b6&style=flat" alt="ikazreal21" /> </p>
+ -->
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ikazreal21" alt="ikazreal21" /></a> </p>
 
 
