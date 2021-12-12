@@ -7,7 +7,7 @@
 
 #
 <h3 align="center">Hi 👋, I'm Joaquin Zaki</h3>
-<h4 align="center">A Freelance Web Developer and a Former Bug bounty Hunter and Currently a Junior Software Developer in The PackWorks INC.</h4>
+<h4 align="center">A Freelance Web Developer and a Former Bug bounty Hunter and Currently a Junior Software Developer on THE PACK SOLUTIONS INC.</h4>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ikazreal21" alt="ikazreal21" /></a> </p>
 
