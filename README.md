@@ -1,5 +1,5 @@
-<h3 align="center"><strong>“Anyone who has never made a mistake has never tried anything new.”</strong></h3>
-<h5 align="center">― Albert Einstein</h5>
+<h3 align="center"><strong>“So remember to look up at the stars and not down at your feet. Try to make sense of what you see and hold on to that childlike wonder about what makes the universe exist.”</strong></h3>
+<h5 align="center">― Stephen Hawking</h5>
 <h5 align="center"></h5>
 
 <p align="center"><img src="https://media.giphy.com/media/gGuOldphm6vzW/giphy.gif" width="500px" height="300px"></p>
