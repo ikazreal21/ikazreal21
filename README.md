@@ -18,10 +18,6 @@ I mainly use Python and Django Stack for Web Development</h4>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ikazreal21&" alt="ikazreal21" /></p>
 
-<h5 align="center"></h5>
-
 <p align="left">📫 How to reach me <a href="mailto:joaquinzaki@tutanota.com">joaquinzaki@tutanota.com</a></p>
 
-
-<!-- This needs to be Update and polish -->
 
