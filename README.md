@@ -19,5 +19,6 @@ I mainly use Python and Django Stack for Web Development</h4>
 <!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ikazreal21&" alt="ikazreal21" /></p> -->
 
 <h3 align="left">📫 How to reach me <a href="mailto:joaquinzaki@tutanota.com">joaquinzaki21@gmail.com</a></h3>
+<img src="[https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg](https://tianji.ellequin.com/telemetry/clnzoxcy10001vy2ohi4obbi0/cm184vk5y8iua14h9a3ys540t.gif)" alt="bash" width="40" height="40"/>
 
 
