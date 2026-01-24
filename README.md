@@ -35,6 +35,13 @@
 
 ###
 
+<p align="left">
+  Currently a Python Developer at Texas Instruments, building reliable, secure solutions.<br>
+  Former bug bounty hunter and former Software Developer at Packworks.<br>
+  I actively take on freelance projects under our organization Logic and Pixels and love turning ideas into production‑ready code.<br>
+  📫 How to reach us <a href="mailto:logicandpixel@gmail.com">logicandpixel@gmail.com</a>
+</p>
+
 <p align="left">Software Developer | Freelance Web Dev | TypeScript · Python · Django · Flask<br>4+ years at Packworks, specializing in full-stack development, debugging, and SDLC support.<br>Ex-Bug Bounty Hunter | Freelance Web Dev | AI/ML · DB Optimization · Scripting<br>Self-Hosting Enthusiast | Docker · Cloudflare · Home Server Management</p>
 
 ###
